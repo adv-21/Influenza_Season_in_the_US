@@ -13,6 +13,6 @@ To help a medical staffing agency that provides temporary workers to clinics and
 • No vaccination data for the state of Florida
 ## Tools
 • Excel - For analysis \
-• Tableau - For visualizations and presenting results\
+• Tableau - For visualizations and presenting results
 ## Visualizations
 All visualizations produced are available on tableau public [here.](https://public.tableau.com/app/profile/adrian.del.villar/viz/InfluenzaDeathsStory/Story1)
